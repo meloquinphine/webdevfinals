@@ -1,0 +1,23 @@
+﻿body {
+padding: 0;
+margin: 0;
+background-color: skyblue;
+}
+
+.navbar {
+width: 50;
+height: 50;
+diplay: flex;
+position: relative;
+text-align: right;
+}
+
+.div .h1 {
+text-align: center;
+}
+
+.content {
+text-align: center;
+position: relative;
+
+}
